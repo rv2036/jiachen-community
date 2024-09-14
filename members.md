@@ -17,3 +17,7 @@
 | Name      | GitHub or Blog  | Projects working on | Wishes and Goals |        Extra info |
 | --------- | --------------- | ----------------- | ---------------- | ----------------- |
 | Wei Wu    | [lazyparser](https://github.com/lazyparser/) | Jiachen project | RISC-V Prosperity 2036 | Manager of Jiachen Project |
+| Wang Xiaoyun | [jiuyewxy](https://github.com/jiuyewxy) | ISCAS               | RISC-V based robotics applications | Engineer of ISCAS, openEuler ROS SIG Maintainer |
+
+ 
+
