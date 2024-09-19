@@ -17,3 +17,4 @@
 | Name      | GitHub or Blog  | Projects working on | Wishes and Goals |        Extra info |
 | --------- | --------------- | ----------------- | ---------------- | ----------------- |
 | Wei Wu    | [lazyparser](https://github.com/lazyparser/) | Jiachen project | RISC-V Prosperity 2036 | Manager of Jiachen Project |
+| Meng Zhuo | [mengzhuo](https://github.com/mengzhuo/) | Jiachen project | RISC-V Prosperity 2036 (Cloud native/ Go) |  |
