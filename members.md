@@ -19,3 +19,4 @@
 | Wei Wu    | [lazyparser](https://github.com/lazyparser/) | Jiachen project | RISC-V Prosperity 2036 | Manager of Jiachen Project |
 | Felix Yan | [felixonmars](https://github.com/felixonmars/) | Arch Linux RISC-V | First-class RISC-V support across FOSS world | Arch Linux Developer |
 | Wang Xiaoyun | [jiuyewxy](https://github.com/jiuyewxy) | ISCAS               | RISC-V based robotics applications | Engineer of ISCAS, openEuler ROS SIG Maintainer |
+| Meng Zhuo | [mengzhuo](https://github.com/mengzhuo/) | Jiachen project | RISC-V Prosperity 2036 (Cloud native/ Go) |  |
