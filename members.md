@@ -17,3 +17,4 @@
 | Name      | GitHub or Blog  | Projects working on | Wishes and Goals |        Extra info |
 | --------- | --------------- | ----------------- | ---------------- | ----------------- |
 | Wei Wu    | [lazyparser](https://github.com/lazyparser/) | Jiachen project | RISC-V Prosperity 2036 | Manager of Jiachen Project |
+| Felix Yan | [felixonmars](https://github.com/felixonmars/) | Arch Linux RISC-V | First-class RISC-V support across FOSS world | Arch Linux Developer |
