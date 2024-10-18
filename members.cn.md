@@ -43,6 +43,7 @@
 | 朗科智算 | [官网](http://www.netac-ai.com) | [公告](http://www.netac-ai.com/new_details.html?newsid=785714) | [转载](https://mp.weixin.qq.com/s/EVe_lWsMb2qnEklXXJ9eNg) | |
 | 中移物联网 OneOS | [官网](https://os.iot.10086.cn) | [公告](https://os.iot.10086.cn/news/81) | [转载](https://mp.weixin.qq.com/s/Zbxx2RiqRRvRlI5O8c4LMA) | |
 | 思尔芯 | [官网](https://www.s2ceda.com/ch/) | [公告](https://www.s2ceda.com/ch/info-pr-479) | [转载](https://mp.weixin.qq.com/s/_LvyNLavau6t0ZB_Ho6oGg) | |
+| 亚科鸿禹 | [官网](http://www.hypersilicon.com) | [公告](https://mp.weixin.qq.com/s/xDni6dQ18Beajul_n-R0kw) | [转载](https://mp.weixin.qq.com/s/e6EEk1NqMT1C5qpJENm0HA) | |
 
 ## 开源社区，开发团队，非盈利机构或基金会
 
