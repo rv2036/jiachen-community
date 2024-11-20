@@ -40,6 +40,7 @@
 | 山东大学智能创新研究院 | [官网](https://aii.sdu.edu.cn) | [公告](https://aii.sdu.edu.cn/info/1002/1471.htm) | [转载](https://mp.weixin.qq.com/s/dCsKGAENrsYZJwngY4kOCw) | |
 | deepin | [官网](https://www.deepin.org/index/zh) | [公告](https://www.deepin.org/zh/deepin-joins-the-risc-v-prosperity-2036/) | [转载](https://mp.weixin.qq.com/s/PYxxVWiw6ZTOn_PWMraqqw) | |
 | 北京微核芯 | [官网](https://www.rvcore.com) | [公告](https://mp.weixin.qq.com/s/60SoEy3em-9CLNXKF_FQ8g) | [转载](https://mp.weixin.qq.com/s/ADJHkTB_xQiUQHxuVnMafg) | |
+| 晶心科技 | [官网](https://www.andestech.com/) | [公告](https://mp.weixin.qq.com/s/WL6IWFoSeASXRBSvZwLJkQ) | [转载](https://mp.weixin.qq.com/s/n3FuTU_JcwEIfJa1mMBOgg) | |
 | 朗科智算 | [官网](http://www.netac-ai.com) | [公告](http://www.netac-ai.com/new_details.html?newsid=785714) | [转载](https://mp.weixin.qq.com/s/EVe_lWsMb2qnEklXXJ9eNg) | |
 | 中移物联网 OneOS | [官网](https://os.iot.10086.cn) | [公告](https://os.iot.10086.cn/news/81) | [转载](https://mp.weixin.qq.com/s/Zbxx2RiqRRvRlI5O8c4LMA) | |
 | 思尔芯 | [官网](https://www.s2ceda.com/ch/) | [公告](https://www.s2ceda.com/ch/info-pr-479) | [转载](https://mp.weixin.qq.com/s/_LvyNLavau6t0ZB_Ho6oGg) | |
