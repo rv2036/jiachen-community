@@ -46,8 +46,7 @@
 | S2C （思尔芯） | [Official Website](https://www.s2ceda.com/ch/) | [Announce](https://www.s2ceda.com/ch/info-pr-479) | [Repost](https://mp.weixin.qq.com/s/_LvyNLavau6t0ZB_Ho6oGg) | |
 | HyperSilicon （亚科鸿禹） | [Official Website](http://www.hypersilicon.com) | [Announce](https://mp.weixin.qq.com/s/xDni6dQ18Beajul_n-R0kw) | [Repost](https://mp.weixin.qq.com/s/e6EEk1NqMT1C5qpJENm0HA) | |
 | Canonical (Ubuntu) | [Official Website](https://canonical.com) | [Announce](https://mp.weixin.qq.com/s/VZUOIFji7Hz_ws61f81Q-g) | [Repost](https://mp.weixin.qq.com/s/gryVUe4yTTuiPDyG4GUGHQ) | |
-
-
+| EVAS Intelligence (奕行智能) | [Official Website](https://www.evas.ai/about.html) | [Announce](https://mp.weixin.qq.com/s/fnMw_6f4XzwyA351lyFKtA) | [Repost]() | |
 
 ## Open source communities, developer groups, nonprofits, and foundations
 

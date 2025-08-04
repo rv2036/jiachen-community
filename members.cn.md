@@ -46,6 +46,7 @@
 | 思尔芯 | [官网](https://www.s2ceda.com/ch/) | [公告](https://www.s2ceda.com/ch/info-pr-479) | [转载](https://mp.weixin.qq.com/s/_LvyNLavau6t0ZB_Ho6oGg) | |
 | 亚科鸿禹 | [官网](http://www.hypersilicon.com) | [公告](https://mp.weixin.qq.com/s/xDni6dQ18Beajul_n-R0kw) | [转载](https://mp.weixin.qq.com/s/e6EEk1NqMT1C5qpJENm0HA) | |
 | Canonical (Ubuntu) | [Official Website](https://canonical.com) | [Announce](https://mp.weixin.qq.com/s/VZUOIFji7Hz_ws61f81Q-g) | [Repost](https://mp.weixin.qq.com/s/gryVUe4yTTuiPDyG4GUGHQ) | |
+| 奕行智能 (EVAS Intelligence) | [Official Website](https://www.evas.ai/about.html) | [Announce](https://mp.weixin.qq.com/s/fnMw_6f4XzwyA351lyFKtA) | [Repost](https://mp.weixin.qq.com/s/81s0S4Bba5k3_a8XYWJM1w) | |
 
 ## 开源社区，开发团队，非盈利机构或基金会
 
