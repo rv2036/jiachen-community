@@ -48,6 +48,7 @@
 | Canonical (Ubuntu) | [Official Website](https://canonical.com) | [Announce](https://mp.weixin.qq.com/s/VZUOIFji7Hz_ws61f81Q-g) | [Repost](https://mp.weixin.qq.com/s/gryVUe4yTTuiPDyG4GUGHQ) | |
 | 奕行智能 (EVAS Intelligence) | [Official Website](https://www.evas.ai/about.html) | [Announce](https://mp.weixin.qq.com/s/fnMw_6f4XzwyA351lyFKtA) | [Repost](https://mp.weixin.qq.com/s/81s0S4Bba5k3_a8XYWJM1w) | |
 | 光电通 (GuangDianTong) | [Official Website](https://www.toec.com) | [Announce](https://mp.weixin.qq.com/s/N-WVmMz9gG9u2Z_J5nbxTA) | [Repost](https://mp.weixin.qq.com/s/d6VVrqW4Xk9c8B39MMUnOg) | |
+| 知合计算 (Zhihe Computing) | [Official Website](http://www.zhcomputing.com) | [Announce](https://mp.weixin.qq.com/s/4IT0uOUDz7Z3MhbuSIjmLg) | [Repost](https://mp.weixin.qq.com/s/ZkxkzIljw6_dkOR8nNEfgg) | |
 
 ## 开源社区，开发团队，非盈利机构或基金会
 
