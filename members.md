@@ -67,3 +67,4 @@
 | Felix Yan | [felixonmars](https://github.com/felixonmars/) | Arch Linux RISC-V | First-class RISC-V support across FOSS world | Arch Linux Developer |
 | Wang Xiaoyun | [jiuyewxy](https://github.com/jiuyewxy) | ISCAS               | RISC-V based robotics applications | Engineer of ISCAS, openEuler ROS SIG Maintainer |
 | Meng Zhuo | [mengzhuo](https://github.com/mengzhuo/) | Jiachen project | RISC-V Prosperity 2036 (Cloud native/ Go) |  |
+| Guodong Xu | [docularxu](https://github.com/docularxu) | Linux Kernel | All RISC-V chips are formally upstreamed to the Linux kernel mainline | Linux Kernel & Platform Software, Tech–Biz Hybrid, Open Source |
